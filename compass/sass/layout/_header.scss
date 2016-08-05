@@ -1,0 +1,18 @@
+// -------------------------------
+// _HEADER.SCSS
+// Global Header styles
+// -------------------------------
+
+#header{
+	width: 100%;
+	position: fixed;
+	background-color:red;
+	@include border-radius(5px);
+
+	.circle{
+		@include circle(20px, $mainBgColor, #0000ff);
+		height: 30px;
+		width: 30px;
+		}
+}
+

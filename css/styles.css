@@ -70,3 +70,26 @@ body {
   margin: auto 10px;
   float: left;
 }
+
+/* line 33, ../compass/sass/styles.scss */
+.click-event {
+  text-align: center;
+  padding-top: 20px;
+}
+/* line 36, ../compass/sass/styles.scss */
+.click-event input {
+  font-size: 20px;
+}
+
+/* line 41, ../compass/sass/styles.scss */
+.movie-types {
+  text-align: center;
+  padding: 10px;
+}
+
+/* line 46, ../compass/sass/styles.scss */
+.buttons {
+  background-color: #EB4B98;
+  font-size: 15px;
+  color: #fff;
+}
